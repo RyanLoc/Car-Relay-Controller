@@ -1,5 +1,5 @@
 # Car-Relay-Controller
-This code is designed for touchscreen relay control of 4wd and camping 12V accessories including, but not limited too, lighting, air compressors, inverters, etc. It uses and Arduino Mega and 3.2 inch touchscreen. The most recent implementation includes Bluetooth compatability that works with the IOS app BLE automation.
+This code is designed for touchscreen relay control of 4wd and camping 12V accessories including, but not limited too, lighting, air compressors, inverters, etc. It uses and Arduino Mega and 3.2 inch touchscreen. The most recent implementation includes Bluetooth compatibility that works with the IOS app BLE automation.
 
 
 Parts list (Total cost approx. AU$100):
