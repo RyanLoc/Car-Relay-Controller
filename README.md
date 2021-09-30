@@ -8,7 +8,7 @@ Arduino Mega https://www.auselectronicsdirect.com.au/mega-development-board-with
 
 3.2 Inch Touchscreen https://www.auselectronicsdirect.com.au/3.2-inch-touchscreen-lcd-screen-shield-for-arduino?gclid=Cj0KCQjw18WKBhCUARIsAFiW7JxupzDkonK1dZ306bucuKF-SFqIhSzYi_dh_6lh3Ana_8mlcO39yUEaAnQ1EALw_wcB
 
-8 Channel Relay https://www.jaycar.com.au/arduino-compatible-8-channel-relay-board/p/XC4418
+5V 8 Channel Relay https://www.phippselectronics.com/product/5v-8-channel-relay-module-optocoupler/ 
 
 HM-10 BLE Bluetooth Module https://www.ebay.com.au/itm/402321480432
 
